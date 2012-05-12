@@ -7,7 +7,7 @@
 
 Summary: Search indexing for Chef
 Name: rubygem-%{gemname}
-Version: 0.10.6
+Version: 0.10.10
 Release: 1%{?buildstamp}%{?dist}
 Group: Development/Languages
 License: GPLv2+ or Ruby
